@@ -1,0 +1,28 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# CMake
+build/
+cmake-build-*/
+
+# Mac
+.DS_Store
+
+# Linux
+*~
+
+# Logs
+*.log
