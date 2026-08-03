@@ -1,4 +1,4 @@
-# 🚀 DSA Journey
+# 🚀 Data Structures & Algorithms
 
 A structured repository documenting the implementation of **Data Structures & Algorithms in C++**.
 
@@ -9,6 +9,7 @@ The goal of this repository is to strengthen problem-solving skills, master core
 ## 📚 Topics Covered
 
 - [x] Arrays
+- [x] Vectors
 - [ ] Strings
 - [ ] Searching
 - [ ] Sorting
@@ -30,9 +31,10 @@ The goal of this repository is to strengthen problem-solving skills, master core
 ## 📂 Repository Structure
 
 ```
-DSA-Journey
+Data-Structures-and-Algorithms
 │
 ├── Arrays
+├── Vectors
 └── ...
 ```
 
@@ -43,6 +45,7 @@ DSA-Journey
 | Topic | Status |
 |--------|--------|
 | Arrays | ✅ |
+| Vectors | ✅ |
 | Strings | ⏳ |
 | Linked Lists | ⏳ |
 | Stacks | ⏳ |
