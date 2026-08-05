@@ -10,6 +10,7 @@ The goal of this repository is to strengthen problem-solving skills, master core
 
 - [x] Arrays
 - [x] Vectors
+- [x] Pointers
 - [ ] Strings
 - [ ] Searching
 - [ ] Sorting
@@ -35,6 +36,7 @@ Data-Structures-and-Algorithms
 │
 ├── Arrays
 ├── Vectors
+├── Pointers
 └── ...
 ```
 
@@ -46,6 +48,7 @@ Data-Structures-and-Algorithms
 |--------|--------|
 | Arrays | ✅ |
 | Vectors | ✅ |
+| Pointers | ✅ |
 | Strings | ⏳ |
 | Linked Lists | ⏳ |
 | Stacks | ⏳ |
@@ -65,4 +68,4 @@ Data-Structures-and-Algorithms
 ---
 
 
-⭐ Feel free to explore the implementations and follow along with my learning journey.
+⭐ Feel free to explore the implementations and follow along with me.
