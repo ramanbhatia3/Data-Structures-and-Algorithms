@@ -12,8 +12,8 @@ The goal of this repository is to strengthen problem-solving skills, master core
 - [x] Vectors
 - [x] Pointers
 - [x] Searching
+- [x] Sorting
 - [ ] Strings
-- [ ] Sorting
 - [ ] Recursion
 - [ ] Linked Lists
 - [ ] Stacks
@@ -38,6 +38,12 @@ Data-Structures-and-Algorithms
 ├── Vectors
 ├── Pointers
 ├── Searching
+│   ├── Binary Search
+│   ├── Linear Search
+├── Sorting
+│   ├── Bubble Sort
+│   ├── Insertion Sort
+│   └── Selection Sort
 └── ...
 ```
 
@@ -51,6 +57,7 @@ Data-Structures-and-Algorithms
 | Vectors | ✅ |
 | Pointers | ✅ |
 | Searching | ✅ |
+| Sorting | ✅ |
 | Strings | ⏳ |
 | Linked Lists | ⏳ |
 | Stacks | ⏳ |
